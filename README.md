@@ -1,12 +1,12 @@
 # Hi, I'm Mireia!
 
-🎓 Data Analyst | 📊 SQL & Python Enthusiast | 📈 Tableau Developer
+Data Analyst | MSc Business Analytics @ Imperial College London
 
-I'm passionate about transforming data into actionable insights. With a strong foundation in SQL, Python, and data visualization tools like Tableau, I aim to drive data-informed decisions in business contexts.
+Working on analytics projects in sustainability and healthcare
+Looking for junior analyst roles in London where I can make an impact
 
-I studied International Business at the University of Barcelona
-
-Currently seeking opportunities in London to apply my analytical skills and contribute to data-driven strategies.
+🇬🇧 British Citizen
+📍 London
 
 # Skills
 
